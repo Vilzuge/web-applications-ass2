@@ -1,0 +1,40 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.boardbutton {
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  vertical-align: middle;
+}
+.x-style {
+  color: rgb(124, 252, 0);
+  height: 60px;
+  width: 60px;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: middle;
+  font: helvetica;
+}
+
+.o-style {
+  color: rgb(250, 128, 114);
+  height: 60px;
+  width: 60px;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: middle;
+  font: helvetica;
+}
+
+.w3-border {
+  width: 312px;
+}
+
+.w3-green {
+  height: 24px;
+  width: 0%;
+}
